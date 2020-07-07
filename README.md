@@ -1,6 +1,6 @@
 # gulp-eslint [![Build Status](https://travis-ci.org/adametry/gulp-eslint.svg)](https://travis-ci.org/adametry/gulp-eslint) [![Coverage Status](https://img.shields.io/coveralls/adametry/gulp-eslint.svg)](https://coveralls.io/github/adametry/gulp-eslint)
 
-> A [gulp](https://gulpjs.com/) plugin for [ESLint](https://eslint.org/)
+> A [gulp](https://gulpjs.com/) plugin for [ESLint](https://eslint.org/) based off [Adametry's gulp-eslint package](https://github.com/adametry/gulp-eslint)
 
 ## Installation
 
