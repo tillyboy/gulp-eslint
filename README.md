@@ -268,6 +268,5 @@ ESLint results are attached as an "eslint" property to the vinyl files that pass
 * [gulp-eslint-if-fixed](https://github.com/lukeapage/gulp-eslint-if-fixed)
 * [gulp-eslint-threshold](https://github.com/krmbkt/gulp-eslint-threshold)
 
-
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint?ref=badge_large)
