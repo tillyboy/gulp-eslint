@@ -1,4 +1,5 @@
 # gulp-eslint [![Build Status](https://travis-ci.org/adametry/gulp-eslint.svg)](https://travis-ci.org/adametry/gulp-eslint) [![Coverage Status](https://img.shields.io/coveralls/adametry/gulp-eslint.svg)](https://coveralls.io/github/adametry/gulp-eslint)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint?ref=badge_shield)
 
 > A [gulp](https://gulpjs.com/) plugin for [ESLint](https://eslint.org/) based off [Adametry's gulp-eslint package](https://github.com/adametry/gulp-eslint)
 
@@ -267,3 +268,7 @@ ESLint results are attached as an "eslint" property to the vinyl files that pass
 
 * [gulp-eslint-if-fixed](https://github.com/lukeapage/gulp-eslint-if-fixed)
 * [gulp-eslint-threshold](https://github.com/krmbkt/gulp-eslint-threshold)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflaganalytics%2Fgulp-eslint?ref=badge_large)
