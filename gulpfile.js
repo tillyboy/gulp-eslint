@@ -5,7 +5,7 @@ const eslint = require('.');
 
 task('default', () => {
 	return src(['**/*.js', '!node_modules/**', '!coverage/**', '!test/fixtures/**'])
-		.pipe(eslint())
+		.pipe(eslint({fix:true}))
 		.pipe(eslint.format())
 		.pipe(eslint.failAfterError());
 });
