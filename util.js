@@ -36,7 +36,6 @@ exports.transform = function(transform, flush) {
  */
 
 exports.createIgnoreResult = file => {
-	console.log(file.path);
 	const patt = /node_modules\//; // RegEx for Linux and macOS
 	const patt2 = /node_modules\\/; // Regex for Windows
 	let str;
@@ -45,7 +44,6 @@ exports.createIgnoreResult = file => {
 	} else {
 		str = 'File ignored because of .eslintignore file';
 	}
-	console.log(str);
 	return {
 		filePath: file.path,
 		messages: [{
