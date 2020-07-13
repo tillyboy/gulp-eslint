@@ -110,7 +110,7 @@ describe('gulp-eslint plugin', () => {
 			.on('error', err => {
 				err.plugin.should.equal('gulp-eslint');
 				err.message.should.equal(
-					`gulp-eslint doesn't support vinyl files with Stream contents.`
+					'gulp-eslint doesn\'t support vinyl files with Stream contents.'
 				);
 				done();
 			})
