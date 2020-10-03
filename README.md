@@ -4,11 +4,7 @@
 
 ## Installation
 
-[Use](https://docs.npmjs.com/cli/install) [npm](https://docs.npmjs.com/getting-started/what-is-npm).
-
-```
-npm install gulp-eslint
-```
+Using `npm` or `yarn`, install the package `https://github.com/flaganalytics/gulp-eslint` (either using `npm i` or `yarn add`
 
 ## Usage
 
